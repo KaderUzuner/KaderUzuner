@@ -11,4 +11,17 @@
 * Visual Studio code
 * Git
 
+## 🎓: *Programming resources used for self-learning:*
+
+* 🗺️ Github
+
+* 💻 HackerRank
+
+* 🛠️ Stackoverflow
+
+* ✍️ W3schools
+
+
+
+
 [![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=kaderuzuner)](https://github.com/anuraghazra/github-readme-stats)

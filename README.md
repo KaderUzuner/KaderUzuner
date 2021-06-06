@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, I'm Kader Uzuner
 
-<!--
-**KaderUzuner/KaderUzuner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am studying Management İnformation Systems.
+I'm intereseting with Software development.
 
-Here are some ideas to get you started:
+## Languages and tools:
+* C#
+* Angular
+* HTML, CSS
+* Mssql
+* Visual Studio
+* Visual Studio code
+* Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=kaderuzuner)](https://github.com/anuraghazra/github-readme-stats)

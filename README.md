@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Kader Uzuner
-
-*🎓I am studying Management İnformation Systems.
-*💻 I'm intereseting with Software development.
+* 🎓:I am studying Management İnformation Systems.
+* 💻: I'm intereseting with Software development.
 
 ## Languages and tools:
 * C#

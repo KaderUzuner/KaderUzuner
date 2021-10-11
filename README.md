@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Kader Uzuner
-*🎓 I'm a Management Information Systems student (graduating in 2021)
+* 🎓 I'm a Management Information Systems student (graduating in 2021)
 * 💻 I'm intereseting with Software development.
 
 ## Languages and tools:

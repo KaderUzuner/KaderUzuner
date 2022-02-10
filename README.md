@@ -2,6 +2,8 @@
 * 🎓 I'am a Management Information Systems graduate.(2021)
 * 💻 I'm intereseting with Software development.
 
+
+
 ## Languages and tools:
 * C#
 * Angular

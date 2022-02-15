@@ -10,7 +10,6 @@
 * HTML, CSS
 * Mssql
 * Visual Studio
-* Visual Studio code
 * Git
 
 ## 🎓: *Programming resources used for self-learning:*

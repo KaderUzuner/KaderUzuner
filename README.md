@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Kader Uzuner
 * 🎓 I'am a Management Information Systems graduate.(2021)
+* 📝 I regularly write (Turkish) articles on https://medium.com/@kaderuzuner
 * 💻 I'm intereseting with Software development.
 
 

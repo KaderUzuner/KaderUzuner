@@ -6,12 +6,12 @@
 
 
 ## Languages and tools:
-* C#
-* Angular
-* HTML, CSS
-* Mssql
-* Visual Studio
-* Git
+![CSharp](https://img.shields.io/badge/-C%20Sharp-239120?logo=C-sharp&style=flat-square)
+![MySQL](https://img.shields.io/badge/-MySql-4479A1?logo=MySQL&style=flat&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=Visual-Studio&style=flat-square)
+
 
 ## 🎓: *Programming resources used for self-learning:*
 

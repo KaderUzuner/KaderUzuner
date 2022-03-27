@@ -11,11 +11,10 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=Visual-Studio&style=flat-square)
+<img  align="left" alt="Net" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png"  />
 
 
 ## 🎓: *Programming resources used for self-learning:*
-
-* 🗺️ Github
 
 * 💻 HackerRank
 
